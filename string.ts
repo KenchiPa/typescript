@@ -11,6 +11,9 @@ let myName: string = "Mark";
 
 myName = 'Kenchi'
 
+let 이름: string = '박호련'
+console.log(이름);
+
 /*
 
 Template String
